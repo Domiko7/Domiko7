@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Domiko7
 - 👀 I’m interested in Coding and Playing
-- 🌱 I’m currently learning Full-stack developing(websites)
-- 📫 How to reach me on discord user: idomiko
+- 🌱 I’m currently learning competitive programming and PyQT
+- 📫 How to reach me on discord user: domiko7
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have just started
 
