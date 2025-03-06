@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @Domiko7
-- 👀 I’m interested in Coding and Playing
-- 🌱 I’m currently learning competitive programming and PyQT
-- 📫 How to reach me on discord user: domiko7
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have just started
+Just a guy who lives in Europe who also likes coding, learning, playing, aviation, seismology.
 
-<!---
-Domiko7/Domiko7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+What I'm currently learning👨‍🎓 :
+° DSA python
+° Fullstack web development
+° 中国
+° school ofc
+
+## My LeetCode Profile
+[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat&logo=leetcode&logoColor=yellow)](https://leetcode.com/Domiko7/)
