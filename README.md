@@ -9,5 +9,3 @@ What I'm currently learning👨‍🎓 :
 ## My LeetCode Profile
 (started recently)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat&logo=leetcode&logoColor=yellow)](https://leetcode.com/6z8nR1ioxq/)
-## My current stats:
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Domiko7)
