@@ -7,4 +7,5 @@ What I'm currently learning👨‍🎓 :
 ° school ofc
 
 ## My LeetCode Profile
-[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat&logo=leetcode&logoColor=yellow)](https://leetcode.com/Domiko7/)
+### (JUST STARTED)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat&logo=leetcode&logoColor=yellow)](https://leetcode.com/6z8nR1ioxq/)
