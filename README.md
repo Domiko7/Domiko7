@@ -6,6 +6,9 @@ What I'm currently learning👨‍🎓 :
 ° 中国
 ° school ofc
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=Domiko7
+
+
 ## My LeetCode Profile
 (started recently)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat&logo=leetcode&logoColor=yellow)](https://leetcode.com/6z8nR1ioxq/)
