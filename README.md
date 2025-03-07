@@ -1,14 +1,14 @@
-Just a guy who lives in Europe who also likes coding, learning, playing, aviation, seismology.
+# Hey there! 👋  
 
-What I'm currently learning👨‍🎓 :
-° DSA python
-° Fullstack web development
-° 中国
-° school ofc
+Just a guy from **Europe** who loves **coding, learning, gaming, aviation, and seismology**! 🌍✈️🌍  
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Domiko7
+## 🚀 What I'm currently learning:  
+- 🔹 **Data Structures & Algorithms** (Python)  
+- 🌐 **Full-stack Web Development**  
+- 🀄 **Chinese (中国)**  
+- 🎓 **School stuff, of course!**  
 
-## My top languages used in github:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domiko7&layout=compact&bg_color=180,000000,000000&title_color=ffffff&text_color=ffffff)
+## 📊 My Top Languages Used on GitHub:  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domiko7&layout=compact&bg_color=180,000000,000000&title_color=ffffff&text_color=ffffff)  
 
 
