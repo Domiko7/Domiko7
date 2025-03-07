@@ -8,7 +8,7 @@ What I'm currently learning👨‍🎓 :
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=Domiko7
 
+## My top languages used in github:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinaetown&layout=compact&bg_color=180,000000,000000&title_color=000000&text_color=000000)
 
-## My LeetCode Profile
-(started recently)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat&logo=leetcode&logoColor=yellow)](https://leetcode.com/6z8nR1ioxq/)
+
