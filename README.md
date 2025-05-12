@@ -5,7 +5,7 @@ Just a guy from **Europe** who loves **coding, learning, gaming, aviation, and s
 ## 🚀 What I'm currently learning:  
 - 🔹 **Data Structures & Algorithms** (Python)  
 - 🌐 **Full-stack Web Development**  
-- 🀄 **Chinese (中国)**
+- 🀄 **Chinese (中文)**
 - 👌 **Spanish (Espanol)**
 - 🎓 **School stuff, of course!**  
 
