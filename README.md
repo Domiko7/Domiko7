@@ -10,7 +10,7 @@ Just a guy from **Europe** who loves **coding, learning, gaming, aviation, and s
 - 🎓 **School stuff, of course!**  
 
 ## 📊 My Top Languages Used on GitHub:  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domiko7&layout=compact&bg_color=180,000000,000000&title_color=ffffff&text_color=ffffff)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domiko7&layout=normal&bg_color=180,000000,000000&title_color=ffffff&text_color=ffffff)  
 
 ## 💻 Technologies I use:
 ---
