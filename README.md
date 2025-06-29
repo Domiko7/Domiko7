@@ -1,15 +1,15 @@
 # Dominik
 
-## About me
--- likes programming
--- likes seismology
--- lives in Warsaw, Poland
--- learns competitive programming
+## About Me
+- Likes programming  
+- Interested in seismology  
+- Lives in Warsaw, Poland  
+- Learning competitive programming  
 
 ---
 
-## 💻 Technologies I use:
----
+## 💻 Technologies I Use
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -25,8 +25,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Arduino Nano](https://img.shields.io/badge/Arduino_Nano-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Arduino Uno](https://img.shields.io/badge/Arduino_Uno-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-0E76A8?style=for-the-badge&logo=esp32&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
@@ -37,11 +35,7 @@
 
 ## 📊 My GitHub Stats
 
-![Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whes10115&theme=tokyonight)
-
-![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whes10115&theme=tokyonight)
-
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=whes10115&theme=tokyonight)
-
-![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whes10115&theme=tokyonight&utm_offset=8)
-
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whes10115&theme=tokyonight)  
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whes10115&theme=tokyonight)  
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whes10115&theme=tokyonight)  
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whes10115&theme=tokyonight&utm_offset=8)
