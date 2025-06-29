@@ -1,16 +1,12 @@
-# Hey there! 👋  
+# Dominik
 
-Just a guy from **Europe** who loves **coding, learning, gaming, aviation, and seismology**! 🌍✈️🌍  
+## About me
+-- likes programming
+-- likes seismology
+-- lives in Warsaw, Poland
+-- learns competitive programming
 
-## 🚀 What I'm currently learning:  
-- 🔹 **Data Structures & Algorithms**
-- 🌐 **Full-stack Web Development**  
-- 🀄 **Chinese (中文)**
-- 👌 **Spanish (Español)**
-- 🎓 **School stuff, of course!**  
-
-## 📊 My Top Languages Used on GitHub:  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Domiko7&layout=normal&bg_color=180,000000,000000&title_color=ffffff&text_color=ffffff)  
+---
 
 ## 💻 Technologies I use:
 ---
@@ -36,4 +32,16 @@ Just a guy from **Europe** who loves **coding, learning, gaming, aviation, and s
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+---
+
+## 📊 My GitHub Stats
+
+![Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whes10115&theme=tokyonight)
+
+![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whes10115&theme=tokyonight)
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=whes10115&theme=tokyonight)
+
+![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whes10115&theme=tokyonight&utm_offset=8)
 
