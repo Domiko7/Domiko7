@@ -32,6 +32,11 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-35495E?style=for-the-badge&logo=websocket&logoColor=white)
+![TCP Socket](https://img.shields.io/badge/TCP%20Socket-007396?style=for-the-badge&logo=networkx&logoColor=white)
+
 
 
 ---
