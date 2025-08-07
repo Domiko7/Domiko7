@@ -45,8 +45,4 @@
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=domiko7&theme=tokyonight)  
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=domiko7&theme=tokyonight)  
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=domiko7&theme=tokyonight&utm_offset=8)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lcandy2/lcandy2/snake-game/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lcandy2/lcandy2/snake-game/github-contribution-grid-snake.svg">
-  <img height="96" align="right" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lcandy2/lcandy2/snake-game/github-contribution-grid-snake.svg">
-</picture>
+
