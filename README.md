@@ -8,7 +8,16 @@
 
 ---
 
-## 💻 Technologies I Use
+
+## 关于我
+- 喜欢编程  
+- 对地震学感兴趣  
+- 居住在波兰华沙  
+- 正在学习竞技编程  
+
+---
+
+## 💻 Technologies I Use / 💻 我使用的技术
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,7 +48,7 @@
 
 ---
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Stats / 📊 我的 GitHub 统计数据
 
 ![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=domiko7&theme=tokyonight)  
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=domiko7&theme=tokyonight)  
