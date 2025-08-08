@@ -1,19 +1,10 @@
 # Dominik
 
-## About Me
-- Likes programming  
-- Interested in seismology  
-- Lives in Warsaw, Poland  
-- Learning competitive programming  
-
----
-
-
-## 关于我
-- 喜欢编程  
-- 对地震学感兴趣  
-- 居住在波兰华沙  
-- 正在学习竞技编程  
+## About Me / 关于我
+- Likes programming / 喜欢编程  
+- Interested in seismology / 对地震学感兴趣
+- Lives in Warsaw, Poland / 居住在波兰华沙
+- Learning competitive programming / 正在学习竞技编程
 
 ---
 
