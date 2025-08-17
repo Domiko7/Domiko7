@@ -35,7 +35,9 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-
+---
+# My discord server
+https://discord.gg/vnDfPRrRh8
 
 ---
 
@@ -45,4 +47,5 @@
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=domiko7&theme=tokyonight)  
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=domiko7&theme=tokyonight)  
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=domiko7&theme=tokyonight&utm_offset=8)
+
 
