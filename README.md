@@ -43,9 +43,5 @@ https://discord.gg/vnDfPRrRh8
 
 ## 📊 My GitHub Stats / 📊 我的 GitHub 统计数据
 
-![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=domiko7&theme=tokyonight)  
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=domiko7&theme=tokyonight)  
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=domiko7&theme=tokyonight)  
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=domiko7&theme=tokyonight&utm_offset=8)
-
 
