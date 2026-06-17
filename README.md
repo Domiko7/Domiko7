@@ -61,9 +61,4 @@
 # My discord server
 https://discord.domiko.dev
 
----
-
-## 📊 My GitHub Stats
-
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DominikStempel&theme=tokyonight)  
 
